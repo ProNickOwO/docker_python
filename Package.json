@@ -1,0 +1,13 @@
+{
+	"name": "docker_web_app",
+	"version": "1.0.0",
+	"description": "Node.js",
+	"author": "ProNick",
+	"main": "server.js",
+	"scirpts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.16.1"
+	}
+}
